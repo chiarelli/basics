@@ -1,0 +1,25 @@
+{
+    "name": "chiarelli/basics",
+    "description": "Classes que são muito utilizadas em meus projetos",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Raphael Mathias Chiarelli Gomes",
+            "email": "chiarelli.rm@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {      
+            "NetChiarelli\\Basics\\": "src/main/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            
+        }
+    }
+}
